@@ -1,3 +1,7 @@
 Basic waitlist for the ICS 
 
-Eventually write this in JavaScript to place on the website.
+Uses globals instead of objects because it was written quickly and 
+had to get something going ASAP.
+
+Eventually write this in JavaScript to place on the website, and 
+remove all global declarations into an object.
